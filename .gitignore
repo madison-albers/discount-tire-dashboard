@@ -5,4 +5,4 @@ __pycache__
 themes_cache.json
 ai_perception_cache.json
 headline_cache.json
-data/
+/data/
